@@ -1,0 +1,12 @@
+{
+    "motion":{
+      "easymotion": {
+        "linear": "forward",
+        "turn": "right",
+        "tilt": "up",
+        "Duration": 3,
+        "linearVelocity": 30,
+        "angularVelocity": 15
+      }
+    }
+}
